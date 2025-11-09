@@ -33,13 +33,44 @@ Giriş bilgileri örnek hesaplar üzerinden doğrulanır.
 2. Sisteme giriş yapın:
 
 username: mucahitustuner
+
 parola: 12345
+
 account number: 8978
+
+
 
 
 3. Giriş başarılı olduğunda menü açılacaktır:
 
 1- Bakiye Sorgulama
+
 2- Para Çekme
+
 3- Para Yatırma
+
 4- Çıkış
+
+---
+
+Örnek Hesaplar
+Hesap No	Kullanıcı Adı	Şifre	Ad Soyad	Bakiye	Ek Hesap
+8978	mucahitustuner	12345	Mücahit Üstüner	17,000,000 ₺	200,000 ₺
+5876	çınarustuner	54321	Çınar Üstüner	170,000 ₺	1,700 ₺
+
+---
+✨ Geliştirme Fikirleri
+
+Verilerin bir dosyada (JSON/CSV) saklanması
+
+Kullanıcı giriş sayısı sınırlaması (3 yanlış girişte kilitleme)
+
+Para transferi (havale) özelliği eklenmesi
+
+GUI (grafik arayüz) ile görselleştirme
+
+---
+
+👤 Geliştirici
+
+Mücahit Üstüner
