@@ -52,13 +52,6 @@ account number: 8978
 4- Çıkış
 
 ---
-
-Örnek Hesaplar
-Hesap No	Kullanıcı Adı	Şifre	Ad Soyad	Bakiye	Ek Hesap
-8978	mucahitustuner	12345	Mücahit Üstüner	17,000,000 ₺	200,000 ₺
-5876	çınarustuner	54321	Çınar Üstüner	170,000 ₺	1,700 ₺
-
----
 ✨ Geliştirme Fikirleri
 
 Verilerin bir dosyada (JSON/CSV) saklanması
