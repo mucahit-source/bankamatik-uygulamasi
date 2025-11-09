@@ -66,4 +66,4 @@ GUI (grafik arayüz) ile görselleştirme
 
 👤 Geliştirici
 
-Mücahit Üstüner
+https://github.com/mucahit-source/
