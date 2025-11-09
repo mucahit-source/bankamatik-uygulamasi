@@ -1,2 +1,45 @@
-# bankamatik-uygulamasi
-Python ile geliştirilen basit bir bankamatik (ATM) simülasyonu. Kullanıcı sisteme giriş yaparak bakiye sorgulama, para çekme, para yatırma işlemlerini gerçekleştirebilir.
+# 🏦 Bankamatik Uygulaması
+
+Bu proje, Python programlama diliyle geliştirilmiş basit bir **bankamatik (ATM) simülasyonu** uygulamasıdır.  
+Kullanıcı sisteme giriş yaparak bakiye sorgulama, para çekme ve para yatırma işlemlerini yapabilir.  
+Giriş bilgileri örnek hesaplar üzerinden doğrulanır.
+
+---
+
+## 🚀 Özellikler
+- Kullanıcı girişi (username, password, account number)
+- Bakiye sorgulama
+- Para çekme (ek hesap kullanımı dahil)
+- Para yatırma
+- Menü tabanlı işlem yapısı
+- Hesap verilerinin sözlük (`dict`) yapısında tutulması
+
+---
+
+## 🧠 Kullanılan Teknolojiler
+- **Python 3.x**
+- Temel fonksiyonlar
+- Sözlük veri yapısı
+- Döngüler ve koşul yapıları
+- Kullanıcı etkileşimli terminal menüsü
+
+---
+
+## 💻 Kullanım
+1. Kod dosyasını çalıştırın:
+   python bankamatik.py
+
+
+2. Sisteme giriş yapın:
+
+username: mucahitustuner
+parola: 12345
+account number: 8978
+
+
+3. Giriş başarılı olduğunda menü açılacaktır:
+
+1- Bakiye Sorgulama
+2- Para Çekme
+3- Para Yatırma
+4- Çıkış
